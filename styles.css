@@ -244,6 +244,10 @@ header{
         display:block;
     }
 
+    header{
+        height: 60px;
+    }
+
     .menu{
         position: fixed;
         width: 100%;
@@ -273,18 +277,19 @@ header{
         flex-direction: column;
     }
     .texto-banner{
-        text-align: center;
+        text-align: left;
         align-items: center;
         padding-right: 0;
     }
 
     .sobremi-texto h5{
         font-size: 14px;
-        text-align: center;
+        text-align: justify;
+        padding-bottom: 0px;
     }
 
     .sobremi-texto h3{
-        text-align: center;
+        text-align: justify;
     }
 
     .sobremi-imagen{
