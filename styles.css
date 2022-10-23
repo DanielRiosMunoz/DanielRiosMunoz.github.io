@@ -115,7 +115,7 @@ header{
     padding: 50px 50px;
     background-color: #edeeed;
     display: flex;
-    justify-content:space-between;
+    justify-content:center;
     text-align: center;
     position: relative;
 }
